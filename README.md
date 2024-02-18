@@ -1,10 +1,10 @@
-# bitcoin_ticker_app
+# Bitcoin Ticker App 🤑
 
-A new Flutter project.
+A crypto currency price checking app.
 
-## Getting Started
+## Goal
 
-This project is a starting point for a Flutter application.
+The objective of this App is to learn about using Cupertino and Material Widgets in parallel and providing a different user interface depending on the platform.
 
 A few resources to get you started if this is your first Flutter project:
 
