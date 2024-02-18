@@ -4,7 +4,9 @@ A crypto currency price checking app.
 
 ## Goal
 
-The objective of this App is to learn about using Cupertino and Material Widgets in parallel and providing a different user interface depending on the platform.
+The objective of this App is to learn about using Cupertino and Material Widgets in parallel and providing a different user interface depending on the platform. 
+
+A crypto currency price checking app to monitor your bitcoin investments on the move!
 
 A few resources to get you started if this is your first Flutter project:
 
